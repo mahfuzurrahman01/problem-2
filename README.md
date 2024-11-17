@@ -1,4 +1,4 @@
-# 🛍️ React Product List Optimization
+# 🛍️ Problem - 2 (React app Optimization)
 
 This repository demonstrates an **optimized React application** for managing a product list. The task involves displaying a list of products, allowing users to add new products through a form, and applying various optimizations for performance and user experience. 🚀
 
